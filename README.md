@@ -1,5 +1,5 @@
-## homework 10.12.22 
+## homework 10.12.22
 
 ### localStorage (json)
 
-[open in GH Pages](https://tatianawansiedler.github.io/)
+[open in GH Pages](https://tatianawansiedler.github.io/localStorage_json/)
